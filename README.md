@@ -18,6 +18,7 @@ Aplicar técnicas estadísticas y de visualización para analizar el dataset de 
 # Instrucciones Ejecución:
 
 - Ejecutar el notebook bajo nombre taller1_final de manera secuencial.
+Nota: El informe ejecutivo se encuentra en el repositorio bajo el nombre: Informe Ejecutivo.pdf
 
 # Conclusiones:
 
